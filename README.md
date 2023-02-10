@@ -1,3 +1,8 @@
+Moved my previous portfolio over from Nuxt hosted on Netlify to Next.js 13 (using the app directory) hosted on vercel.
+Also using Tailwind for the styling.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
