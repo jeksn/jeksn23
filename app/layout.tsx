@@ -10,7 +10,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
       <main className="mx-auto">
-      <header className="w-full px-4 md:px-0">
+      <header className="fixed w-full px-4 md:px-0">
         <div className="flex items-center justify-between max-w-screen-lg py-4 mx-auto">
           <div>
             <a href="/" className="px-4 py-2 text-sm text-black transition-all duration-700 ease-in-out bg-white rounded-sm hover:rounded-xl">
