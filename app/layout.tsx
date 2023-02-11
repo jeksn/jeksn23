@@ -9,7 +9,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-      <main className="h-screen mx-auto">
+      <main className="mx-auto">
       <header className="w-full px-4 md:px-0">
         <div className="flex items-center justify-between max-w-screen-lg py-4 mx-auto">
           <div>

@@ -4,7 +4,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-   <div className="max-w-screen-lg mx-auto flex flex-col justify-center px-4 md:px-0 translate-y-[200px]">
+   <div className="flex flex-col justify-center h-screen max-w-screen-lg px-4 mx-auto md:px-0">
        <div className="mt-8">
           <h2 className="text-4xl font-semibold md:text-6xl">Small projects</h2>
           <ul className="mt-6 text-base md:text-lg">
