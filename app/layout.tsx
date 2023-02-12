@@ -1,5 +1,5 @@
 import { AnalyticsWrapper } from './components/analytics';
-import './globals.css'
+import './globals.css';
 
 export default function RootLayout({
   children,
@@ -13,7 +13,7 @@ export default function RootLayout({
         <header className="fixed w-full px-4 md:px-0">
           <div className="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
             <div>
-              <a href="/" className="px-4 py-2 text-sm text-black transition-all duration-700 ease-in-out bg-white rounded-sm hover:rounded-xl">
+              <a href="/" className="px-4 py-2 font-sans text-sm text-black transition-all duration-700 ease-in-out bg-white rounded-sm hover:rounded-xl">
                 jeksn.me
               </a>
               </div>
