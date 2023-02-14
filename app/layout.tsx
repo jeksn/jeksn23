@@ -1,3 +1,4 @@
+import Link from "next/link"
 import { AnalyticsWrapper } from './components/analytics';
 import './globals.css';
 
@@ -18,11 +19,11 @@ export default function RootLayout({
               </a>
               </div>
               <div className="flex gap-8">
-                <a 
+                <Link 
                 href="/small-projects" 
                 className="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
                   small projects
-                </a>
+                </Link>
                 <a 
                 href="https://github.com/jeksn/jeksn23" 
                 className="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
