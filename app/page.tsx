@@ -33,6 +33,14 @@ export default function Home() {
             </li>
             <li>
               <a
+                href="https://read.cv/jeksn"
+                target="_blank"
+                className="underline transition-all underline-offset-2 hover:underline-offset-4">
+                read.cv
+              </a>
+            </li>
+            <li>
+              <a
                 href="https://oku.club/user/jek5n"
                 target="_blank"
                 className="underline transition-all underline-offset-2 hover:underline-offset-4">
