@@ -19,7 +19,7 @@ export default function Home() {
           </a>
         </h2>
         <p className="max-w-screen-lg mt-6 text-lg md:text-2xl">
-          I`&#39;`m a design minded developer currently working at&nbsp;
+          I'm a design minded developer currently working at&nbsp;
           <a
             href="https://wtmg.se"
             className="underline transition-all underline-offset-4 hover:underline-offset-8"
@@ -27,7 +27,7 @@ export default function Home() {
             WTMG.
           </a>
           <br />
-          Don`&#39;`mt hesitate to get in touch.
+          Don't hesitate to get in touch.
         </p>
         <div className="mt-8">
           <h2 className="text-lg md:text-2xl">Where to find me:</h2>
