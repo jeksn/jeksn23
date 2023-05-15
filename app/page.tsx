@@ -34,6 +34,16 @@ export default function Home() {
           <ul className="text-base md:text-lg">
             <li>
               <a
+                href="https://github.com/jeksn"
+                target="_blank"
+                rel="noreferrer"
+                className="underline transition-all underline-offset-2 hover:underline-offset-4"
+              >
+                Github
+              </a>
+            </li>
+            <li>
+              <a
                 href="https://twitter.com/jeksn_"
                 target="_blank"
                 rel="noreferrer"
